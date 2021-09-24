@@ -1,0 +1,5 @@
+name: Reinforcement
+main: com.windows.Reinforcement.Reinforcement
+version: 1.0
+commands:
+  강화:
